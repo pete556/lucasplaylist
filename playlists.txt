@@ -1,0 +1,6 @@
+# Agrega aquí tus enlaces M3U
+# Un enlace por línea
+# Ejemplo:
+# https://ejemplo.com/canal1.m3u
+# https://ejemplo.com/canal2.m3u
+# https://ejemplo.com/canal3.m3u
